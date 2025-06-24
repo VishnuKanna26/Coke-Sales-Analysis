@@ -55,7 +55,8 @@ All visuals were consolidated into an **interactive Excel Dashboard** with slice
 
 ## 📂 Files in This Repository
 
-- `CocaCola_Sales_Analysis.xlsx` – Full analysis workbook with dashboard and slicers
+- `CocaCola_Sales_Analysis_Raw.xlsx` – Original dataset as received
+- `CocaCola_Sales_Analysis_Solution.xlsx` – Full analysis workbook with dashboard and slicers
 - `README.md` – This file
 
 ---
@@ -73,7 +74,7 @@ All visuals were consolidated into an **interactive Excel Dashboard** with slice
 
 ## 🚀 How to Use
 
-1. Download or open `CocaCola_Sales_Analysis.xlsx`
+1. Download or open `CocaCola_Sales_Analysis_Solution.xlsx`
 2. Go to the **Dashboard** sheet
 3. Use slicers to explore different Retailers, Regions, and Beverage Brands
 4. Read summary sheet for quick takeaways
